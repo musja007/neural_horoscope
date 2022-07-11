@@ -1,5 +1,4 @@
 # neural_horoscope
-AI horoscope generator
 
 ## 1. Introduction
 
